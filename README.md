@@ -1,5 +1,1 @@
-How to run getMostFreqChar.c file: ./a.out test.txt
-
-How to run addressOfScalar.c file: gcc addressOfScalar.c -o program && ./program
-
-How to run addressOfArray.c file: gcc addressOfArray.c -o program && ./program 
+This is a git respository for CSC 3320 - System Level Programming class. This folder contains the code for all the Labs, Homeworks, Midterms and Final. 

@@ -1,0 +1,114 @@
+
+     1  SUDO(8)                   BSD System Manager's Manual                  SUDO(8)
+     2
+     3  NAME
+     4       sudo, sudoedit — execute a command as another user
+     5
+     6  SYNOPSIS
+     7       sudo -h | -K | -k | -V
+     8       sudo -v [-AknS] [-a type] [-g group] [-h host] [-p prompt] [-u user]
+     9       sudo -l [-AknS] [-a type] [-g group] [-h host] [-p prompt] [-U user]
+    10            [-u user] [command]
+    11  CAT(1)                           User Commands                          CAT(1)
+    12
+    13
+    14
+    15  NAME
+    16         cat - concatenate files and print on the standard output
+    17
+    18  SYNOPSIS
+    19         cat [OPTION]... [FILE]...
+    20
+    21  GAWK(1)                        Utility Commands                        GAWK(1)
+    22
+    23
+    24
+    25  NAME
+    26         gawk - pattern scanning and processing language
+    27
+    28  SYNOPSIS
+    29         gawk [ POSIX or GNU style options ] -f program-file [ -- ] file ...
+    30         gawk [ POSIX or GNU style options ] [ -- ] program-text file ...
+    31  LS(1)                            User Commands                           LS(1)
+    32
+    33
+    34
+    35  NAME
+    36         ls - list directory contents
+    37
+    38  SYNOPSIS
+    39         ls [OPTION]... [FILE]...
+    40
+    41  PWD(1)                           User Commands                          PWD(1)
+    42
+    43
+    44
+    45  NAME
+    46         pwd - print name of current/working directory
+    47
+    48  SYNOPSIS
+    49         pwd [OPTION]...
+    50
+    51  SED(1)                           User Commands                          SED(1)
+    52
+    53
+    54
+    55  NAME
+    56         sed - stream editor for filtering and transforming text
+    57
+    58  SYNOPSIS
+    59         sed [OPTION]... {script-only-if-no-other-script} [input-file]...
+    60
+    61  ECHO(1)                          User Commands                         ECHO(1)
+    62
+    63
+    64
+    65  NAME
+    66         echo - display a line of text
+    67
+    68  SYNOPSIS
+    69         echo [SHORT-OPTION]... [STRING]...
+    70         echo LONG-OPTION
+    71  MKDIR(1)                         User Commands                        MKDIR(1)
+    72
+    73
+    74
+    75  NAME
+    76         mkdir - make directories
+    77
+    78  SYNOPSIS
+    79         mkdir [OPTION]... DIRECTORY...
+    80
+    81  GREP(1)                     General Commands Manual                    GREP(1)
+    82
+    83
+    84
+    85  NAME
+    86         grep, egrep, fgrep - print lines matching a pattern
+    87
+    88  SYNOPSIS
+    89         grep [OPTIONS] PATTERN [FILE...]
+    90         grep [OPTIONS] [-e PATTERN | -f FILE] [FILE...]
+    91  CHMOD(1)                         User Commands                        CHMOD(1)
+    92
+    93
+    94
+    95  NAME
+    96         chmod - change file mode bits
+    97
+    98  SYNOPSIS
+    99         chmod [OPTION]... MODE[,MODE]... FILE...
+   100         chmod [OPTION]... OCTAL-MODE FILE...
+-bash-4.2$ ./helpme.sh
+Enter the command you want to search
+chmod
+CHMOD(1)                         User Commands                        CHMOD(1)
+
+
+
+NAME
+chmod - change file mode bits
+
+SYNOPSIS
+chmod [OPTION]... MODE[,MODE]... FILE...
+chmod [OPTION]... OCTAL-MODE FILE...

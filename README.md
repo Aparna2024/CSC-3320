@@ -1,2 +1,5 @@
-# CSC-3320
-This repository consists all the C and Linux files that I have worked through during my second year of college. In this repository thee are homeworks, midterms, in labs and out of labs from CSC 3320. 
+How to run getMostFreqChar.c file: ./a.out test.txt
+
+How to run addressOfScalar.c file: gcc addressOfScalar.c -o program && ./program
+
+How to run addressOfArray.c file: gcc addressOfArray.c -o program && ./program 

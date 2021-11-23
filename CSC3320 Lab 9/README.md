@@ -1,4 +1,4 @@
-How to run getMostFreqChar.c file: ./a.out test.txt
+How to run getMostFreqChar.c file: gcc getMostFreqChar.c -o program && ./program
 
 How to run addressOfScalar.c file: gcc addressOfScalar.c -o program && ./program
 
